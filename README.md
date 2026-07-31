@@ -1,4 +1,4 @@
-\# ⚖️ AI Legal Empowerment System
+# ⚖️ AI Legal Empowerment System
 
 
 
@@ -18,7 +18,7 @@ An intelligent legal awareness platform that leverages Artificial Intelligence a
 
 
 
-\## 🌟 Features
+## 🌟 Features
 
 
 
