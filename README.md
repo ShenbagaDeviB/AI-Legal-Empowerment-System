@@ -336,9 +336,9 @@ AI\_Legal\_Empowerment\_System/
 
 git clone https://github.com/ShenbagaDeviB/AI-Legal-Empowerment-System.git
 
-cd AI-Legal-Empowerment-System
 
-```
+
+cd AI-Legal-Empowerment-System
 
 
 
@@ -366,7 +366,11 @@ python backend/app.py
 
 
 
-The backend will start at: \*\*http://127.0.0.1:5000\*\*
+The backend will start at:
+
+
+
+\*\*http://127.0.0.1:5000\*\*
 
 
 
@@ -417,16 +421,6 @@ Your AI Legal Empowerment System is now ready to use!
 &#x20;   "text": "Someone hacked my social media account and is misusing my private information"
 
 }
-
-```
-
-
-
-\#### Response Format
-
-
-
-```json
 
 {
 
@@ -482,11 +476,15 @@ Legal Guidance Response
 
 \### 🔐 Login Page
 
-!\[Login Page](docs/screenshots/login.png)
+
+
+!\[Login Page](docs/screenshots/login-page.png)
 
 
 
 \### 🖥️ AI Legal Dashboard
+
+
 
 !\[Dashboard](docs/screenshots/dashboard.png)
 
@@ -494,17 +492,9 @@ Legal Guidance Response
 
 \### 🔍 AI Prediction Result
 
-!\[Prediction Result](docs/screenshots/prediction.png)
 
 
-
-> \*\*Note:\*\* Replace the above image paths with actual screenshot files in your `docs/screenshots/` directory.
-
-
-
-\---
-
-
+!\[Prediction Result](docs/screenshots/prediction-result.png)
 
 \## 📌 Project Status
 
@@ -525,6 +515,26 @@ Legal Guidance Response
 
 
 \---
+
+
+
+\---
+
+
+
+\## 🎯 Project Objective
+
+
+
+The main objective of this project is to develop an AI-based legal awareness system that helps users identify possible legal categories from their complaints.
+
+
+
+The system uses Machine Learning and Natural Language Processing (NLP) techniques to analyze user inputs and provide basic legal information, applicable laws, and awareness-based guidance.
+
+
+
+This project aims to improve access to legal awareness through technology.
 
 
 
@@ -622,7 +632,7 @@ For questions, suggestions, or collaborations, please reach out through the GitH
 
 
 
-\*\*Last Updated:\*\* July 2025
+\*\*Last Updated:\*\* July 2026
 
 ```
 
