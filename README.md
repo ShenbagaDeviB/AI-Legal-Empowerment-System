@@ -1,5 +1,5 @@
-**⚖️ AI Legal Empowerment System
-**
+⚖️ AI Legal Empowerment System
+
 AI-Powered Legal Awareness & Assistance Platform
 
 An intelligent legal awareness platform that uses Artificial Intelligence (AI) and Natural Language Processing (NLP) to help users understand potential legal issues from their complaints.
@@ -8,7 +8,7 @@ The system analyzes user-provided situations, predicts relevant legal categories
 
 Goal: Make legal awareness more accessible through technology.
 
-**🌟 Features**
+🌟 Features
 
 🤖 AI Legal Classification
 
