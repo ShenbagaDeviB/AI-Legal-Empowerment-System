@@ -68,24 +68,12 @@ The system returns legal guidance.
 
 🏗️ System Architecture
 
-User
-  |
-  v
-Frontend
-  |
-  v
-Flask API
-  |
-  v
-NLP Processing
-  |
-  v
-ML Model
-  |
-  v
-Prediction
-  |
-  v
+User -->
+Frontend -->
+Flask API -->
+NLP Processing -->
+ML Model -->
+Prediction -->
 Legal Guidance
 
 🛠️ Technology Stack
